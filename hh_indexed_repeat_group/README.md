@@ -9,6 +9,11 @@
 This template demonstrates how to use `indexed-repeat()` in SurveyCTO to dynamically reference the household head’s name and position from within a repeat group. It ensures clean data collection, enforces validation, and supports bilingual deployment for field teams.
 
 ---
+## 📥 Download XLSForm
+
+You can download the main template file here:
+
+- 📄 [SurveyCTO_Household_Roster_Indexed_Repeat_Group.xlsx](assets/SurveyCTO_Household_Roster_Indexed_Repeat_Group.xlsx)
 
 ## 📂 Files Included
 
