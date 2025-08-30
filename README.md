@@ -3,6 +3,10 @@
 Welcome to the **Household Roster Starter Pack** by **SurveyCTO_Builder360** — a ready-to-deploy XLSForm designed for clean, bilingual data collection in household surveys.
 
 ---
+# 📥 Download the Form
+
+Looking for the ready-to-use XLSForm?  
+👉 [Click here to download the Household Roster XLSForm](assets/HHRoster_BasicRepeat_ENBN_v1.xlsx)
 
 ## 🚀 What’s Included
 
@@ -63,3 +67,4 @@ Reach out via [LinkedIn](https://www.linkedin.com/in/bijoy-khiang) for freelance
 ---
 
 > 💡 “Build oncREADME.mde. Deploy everywhere. Train with clarity.”
+
