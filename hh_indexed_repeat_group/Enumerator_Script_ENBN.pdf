@@ -1,0 +1,55 @@
+🧾 Enumerator Script – Indexed Repeat Household Roster
+SurveyCTOBuilder360 | Bangla-English
+
+🔹 Purpose of This Form
+English: This form is designed to collect household member information and identify the head of household using dynamic logic. It uses indexed-repeat() to reference the head’s name and position for follow-up questions and summaries.
+
+Bangla: এই ফর্মটি পরিবারের সদস্যদের তথ্য সংগ্রহ এবং পরিবারের প্রধানকে শনাক্ত করার জন্য তৈরি। এটি indexed-repeat() ব্যবহার করে প্রধান সদস্যের নাম ও অবস্থান পরবর্তী প্রশ্নে ব্যবহার করে।
+
+🔹 Enumerator Instructions
+English:
+
+Ask the respondent how many household members live in the household.
+
+Enter each member’s name, age, gender, and relationship to the head.
+
+Ensure that only one member is marked as the head of household.
+
+The form will automatically detect the head’s position and name.
+
+Confirm the summary screen before submission.
+
+Bangla:
+
+১. উত্তরদাতার কাছ থেকে পরিবারের মোট সদস্য সংখ্যা জিজ্ঞাসা করুন। ২. প্রতিটি সদস্যের নাম, বয়স, লিঙ্গ এবং পরিবারের প্রধানের সাথে সম্পর্ক লিখুন। ৩. নিশ্চিত করুন যে শুধুমাত্র একজন সদস্যকে পরিবারের প্রধান হিসেবে নির্বাচন করা হয়েছে। ৪. ফর্মটি স্বয়ংক্রিয়ভাবে প্রধানের অবস্থান ও নাম শনাক্ত করবে। ৫. জমা দেওয়ার আগে সারাংশ স্ক্রিনটি যাচাই করুন।
+
+🔹 Key Logic in the Form
+position(..) is used to track the index of each repeat instance.
+
+head_index_local stores the index if the member is marked as head.
+
+head_index calculates the maximum index (i.e., the head’s position).
+
+indexed-repeat(${name}, ${hh_member}, ${head_index}) pulls the head’s name.
+
+A constraint ensures that exactly one head is selected.
+
+🔹 Common Errors to Avoid
+English:
+
+Selecting more than one head of household
+
+Leaving relationship field blank
+
+Entering age as zero or negative
+
+Bangla:
+
+একাধিক সদস্যকে প্রধান হিসেবে নির্বাচন করা
+
+সম্পর্কের ঘর ফাঁকা রাখা
+
+বয়স শূন্য বা ঋণাত্মক দেওয়া
+
+🔹 Final Checklist
+✅ All members listed ✅ One head selected ✅ Summary screen reviewed ✅ Form submitted successfully
