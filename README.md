@@ -17,6 +17,9 @@ Looking for the ready-to-use XLSForm?
 - 📊 **Dynamic Summary Note**  
   Displays total number of members entered after the repeat group.
 
+- 📘 **Enumerator Script**  
+  Bangla-English script for consistent field implementation.
+
 - 📄 **README Guide**  
   Step-by-step instructions for deploying and customizing the form.
 
@@ -67,6 +70,7 @@ Reach out via [LinkedIn](https://www.linkedin.com/in/bijoy-khiang) for freelance
 ---
 
 > 💡 “Build oncREADME.mde. Deploy everywhere. Train with clarity.”
+
 
 
 
