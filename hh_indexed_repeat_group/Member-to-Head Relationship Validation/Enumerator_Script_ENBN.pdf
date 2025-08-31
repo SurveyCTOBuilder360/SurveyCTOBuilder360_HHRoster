@@ -1,0 +1,62 @@
+🧾 Enumerator Script – Household Roster (Indexed-Repeat Logic)
+Form Title: SurveyCTO_Household_Roster_Indexed_Repeat_Group Languages: English + Bangla Purpose: To collect household member details and validate relationships using dynamic head referencing.
+
+🔁 Section 1: Household Member Listing
+Enumerator Prompt (EN): “Please list all members of the household one by one. Start with the head of household.”
+
+Enumerator Prompt (BN): “অনুগ্রহ করে গৃহস্থালির সকল সদস্যের নাম একে একে লিখুন। গৃহপ্রধান দিয়ে শুরু করুন।”
+
+👤 Section 2: Member Details
+Fields:
+
+Name
+
+Age
+
+Gender
+
+Relationship to Head
+
+Enumerator Prompt (EN): “Enter each member’s age and relationship to the head. Be careful to mark only one person as ‘Head of Household.’”
+
+Enumerator Prompt (BN): “প্রতিটি সদস্যের বয়স এবং গৃহপ্রধানের সাথে সম্পর্ক লিখুন। একজনকেই ‘গৃহপ্রধান’ হিসেবে চিহ্নিত করুন।”
+
+🧠 Section 3: Head Identification (Automated)
+System Logic:
+
+The form calculates the position of the member marked as “head.”
+
+It uses indexed-repeat() to pull the head’s name and age dynamically.
+
+Enumerator Note (EN): “You will see a note showing the head’s name and age. This is auto-generated—no need to enter it manually.”
+
+Enumerator Note (BN): “আপনি একটি নোট দেখতে পাবেন যেখানে গৃহপ্রধানের নাম ও বয়স দেখানো হবে। এটি স্বয়ংক্রিয়ভাবে তৈরি হয়—নিজে কিছু লিখতে হবে না।”
+
+📏 Section 4: Age Gap Display
+Note Field:
+
+Displays: Age gap with head: ${age_gap} years
+
+Enumerator Prompt (EN): “This shows how much younger or older the member is compared to the head. Use it to verify logical consistency.”
+
+Enumerator Prompt (BN): “এটি দেখায় সদস্যের বয়স গৃহপ্রধানের তুলনায় কত কম বা বেশি। যৌক্তিকতা যাচাই করতে এটি ব্যবহার করুন।”
+
+✅ Section 5: Validation
+Built-in Constraints:
+
+Age must be between 0 and 120
+
+Only one head allowed
+
+Age logic can be extended per relationship type
+
+Enumerator Reminder (EN): “Double-check that relationships and ages make sense. The form will block illogical entries.”
+
+Enumerator Reminder (BN): “সম্পর্ক এবং বয়স যৌক্তিক কিনা তা যাচাই করুন। ফর্মটি অযৌক্তিক তথ্য গ্রহণ করবে না।”
+
+📘 Final Notes
+This form supports Bangla-English labels for ease of use.
+
+If any error appears, follow the on-screen message and correct the entry.
+
+Submit only after reviewing all members and relationships.
