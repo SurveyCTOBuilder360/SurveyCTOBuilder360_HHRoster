@@ -6,7 +6,7 @@ This module is a field-ready, bilingual SurveyCTO form designed to capture house
 
 You can download the latest version of the **SurveyCTO Household Roster – Head Linked Follow-Up Module** directly from this repository:
 
-**🔗 [Download XLSForm](https://github.com/SurveyCTOBuilder360/SurveyCTOBuilder360_HHRoster/blob/main/hh_indexed_repeat_group/SurveyCTO_Household_Roster_Head_Linked_Follow_Up_Module.xlsx)**
+**🔗 [Download XLSForm](assets/SurveyCTO_Household_Roster_Head_Linked_Follow_Up_Module.xlsx)**
 
 ## 📦 What’s Included
 
