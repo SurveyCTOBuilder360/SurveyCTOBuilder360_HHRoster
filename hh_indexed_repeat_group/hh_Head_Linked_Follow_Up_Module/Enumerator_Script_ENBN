@@ -1,0 +1,51 @@
+# 📘 Enumerator Script – Household Roster Module (Bangla-English)
+
+This script guides enumerators through the process of listing household members and identifying the head of household using the SurveyCTO form. It includes bilingual prompts and logic explanations to ensure clarity in the field.
+
+---
+
+## 🔁 Section 1: Listing Household Members
+
+**English:**  
+Please list all members of the household, one by one. For each person, record their name, age, gender, and relationship to the head of household.
+
+**Bangla:**  
+অনুগ্রহ করে পরিবারের সকল সদস্যকে একে একে তালিকাভুক্ত করুন। প্রতিটি সদস্যের নাম, বয়স, লিঙ্গ এবং পরিবারের প্রধানের সাথে সম্পর্ক লিখুন।
+
+---
+
+## 🎯 Section 2: Identifying the Head of Household
+
+**English:**  
+Select “Head” for the person who is considered the main decision-maker or representative of the household.
+
+**Bangla:**  
+যে ব্যক্তি পরিবারে প্রধান সিদ্ধান্ত গ্রহণ করেন বা পরিবারের প্রতিনিধি হিসেবে বিবেচিত হন, তার জন্য “প্রধান” নির্বাচন করুন।
+
+---
+
+## 🧠 Section 3: Follow-Up Questions for Head
+
+**English:**  
+After identifying the head, the form will automatically display follow-up questions for that person only. These include education, employment, and income source.
+
+**Bangla:**  
+প্রধান সদস্য চিহ্নিত করার পর, ফর্মটি স্বয়ংক্রিয়ভাবে শুধুমাত্র তার জন্য অতিরিক্ত প্রশ্ন দেখাবে। যেমন: শিক্ষাগত যোগ্যতা, কর্মসংস্থান, এবং আয়ের উৎস।
+
+---
+
+## 💡 Section 4: Tips for Enumerators
+
+- ✅ Ensure only one person is marked as “Head”
+- ✅ Double-check names and relationships before submitting
+- ✅ Use Bangla labels if respondent prefers native language
+- ✅ If unsure, ask the respondent who they consider the head
+
+**Bangla Tips:**  
+- ✅ নিশ্চিত করুন যে একজন মাত্র সদস্যকে “প্রধান” হিসেবে চিহ্নিত করা হয়েছে  
+- ✅ জমা দেওয়ার আগে নাম ও সম্পর্ক যাচাই করুন  
+- ✅ উত্তরদাতা চাইলে বাংলা লেবেল ব্যবহার করুন  
+- ✅ সন্দেহ হলে, জিজ্ঞাসা করুন তারা কাকে প্রধান মনে করেন
+
+---
+
