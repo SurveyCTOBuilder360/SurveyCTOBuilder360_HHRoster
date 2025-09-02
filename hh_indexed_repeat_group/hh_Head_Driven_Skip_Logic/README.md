@@ -55,7 +55,7 @@ This file includes:
 
 This PDF provides a bilingual script for training enumerators on how to use the household roster module effectively in the field.
 
-**🔗 [Download Enumerator_Script_ENBN.pdf](https://github.com/SurveyCTOBuilder360/SurveyCTOBuilder360_HHRoster/blob/main/hh_indexed_repeat_group/Enumerator_Script_ENBN.pdf)**
+**🔗 [Download Enumerator_Script_ENBN.pdf](Enumerator_Script_ENBN.pdf)**
 
 Includes:
 - Step-by-step instructions
