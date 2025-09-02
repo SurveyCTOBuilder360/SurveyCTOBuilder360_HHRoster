@@ -39,7 +39,7 @@ This bilingual SurveyCTO form is designed to collect education-related data for 
 
 You can download the latest version of the **Head Education Module** directly from this repository:
 
-**🔗 [Download XLSForm](https://github.com/SurveyCTOBuilder360/SurveyCTOBuilder360_HHRoster/blob/main/hh_indexed_repeat_group/SurveyCTO_Head_Education_Module.xlsx)**
+**🔗 [Download XLSForm](assets/SurveyCTO_Head_Education_Module.xlsx)**
 
 This file includes:
 - Indexed logic for head identification
@@ -54,7 +54,7 @@ This file includes:
 
 This PDF provides a bilingual script for training enumerators on how to use the Head Education Module effectively in the field.
 
-**🔗 [Download Enumerator_Script_ENBN.pdf](https://github.com/SurveyCTOBuilder360/SurveyCTOBuilder360_HHRoster/blob/main/hh_indexed_repeat_group/Enumerator_Script_ENBN.pdf)**
+**🔗 [Download Enumerator_Script_ENBN.pdf](Enumerator_Script_ENBN.pdf)**
 
 Includes:
 - Step-by-step instructions  
