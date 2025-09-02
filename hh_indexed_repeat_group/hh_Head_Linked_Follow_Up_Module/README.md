@@ -2,6 +2,12 @@
 
 This module is a field-ready, bilingual SurveyCTO form designed to capture household member details and trigger follow-up questions for the identified head of household. Built using **indexed-repeat()**, **conditional logic**, and **modular design**, it’s ideal for researchers, NGOs, and data collection teams seeking clean, scalable roster templates.
 
+## 📥 Download the XLSForm
+
+You can download the latest version of the **SurveyCTO Household Roster – Head Linked Follow-Up Module** directly from this repository:
+
+**🔗 [Download XLSForm](https://github.com/SurveyCTOBuilder360/SurveyCTOBuilder360_HHRoster/blob/main/hh_indexed_repeat_group/SurveyCTO_Household_Roster_Head_Linked_Follow_Up_Module.xlsx)**
+
 ## 📦 What’s Included
 
 - ✅ Repeat group for listing household members
